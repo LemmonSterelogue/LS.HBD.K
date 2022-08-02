@@ -26,7 +26,7 @@ var config = {
      */
     imgs: {
         "惊喜": "./imgs/8e1bf7ab0755b53b55e383981ac98fd.jpg",
-        "还有惊喜": "./imgs/birthday.jpg",
+        "还有惊喜": "./imgs/d100f80a5d2192080642dc9b69047d0.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
